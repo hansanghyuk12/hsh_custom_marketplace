@@ -1,0 +1,18 @@
+{
+  "name": "my-plugins",
+  "owner": {
+    "name": "Your Name"
+  },
+  "plugins": [
+    {
+      "name": "quality-review-plugin",
+      "source": "./plugins/quality-review-plugin",
+      "description": "Adds a quality-review skill for quick code reviews"
+    },
+    {
+      "name": "dev-helper-plugin",
+      "source": "./plugins/dev-helper-plugin",
+      "description": "Git 정리 등 개발 작업을 보조하는 유틸리티 플러그인"
+    }
+  ]
+}

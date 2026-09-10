@@ -1,0 +1,8 @@
+{
+  "name": "dev-helper-plugin",
+  "version": "1.0.0",
+  "description": "개발 편의를 돕는 유틸리티 플러그인",
+  "author": {
+    "name": "Han Sang-hyuk"
+  }
+}

@@ -1,0 +1,11 @@
+---
+description: Review code for bugs, security, and performance
+---
+
+선택한 코드 또는 최근 변경 사항을 다음 항목에 대해 검토합니다:
+- 잠재적 버그 또는 엣지 케이스
+- 보안 문제
+- 성능 문제
+- 가독성 개선
+
+간결하고 실행 가능한 내용을 제공합니다.
